@@ -36,6 +36,11 @@ fishingContest/
 - **Catch.cs:** A data class that holds details about an angler’s catch (fish type and weight).
 - **Fish.cs:** An abstract base class for different fish species. Specific fish types like `Bream`, `Carp`, and `Catfish` inherit from this class and have different score multipliers.
 
+## Technologies Used
+- C# (Object-Oriented Programming)
+- .NET Framework
+- TextFile Library (for reading text files)
+
 ## How to Run
 ### 1. Clone the repository:
 
